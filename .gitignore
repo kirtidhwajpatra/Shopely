@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xcworkspace/contents.xcworkspacedata
+xcuserdata/
+xcshareddata/
+DerivedData/
+build/
+
+# Debugging
+xcdebugger/
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# Fastlane
+fastlane/report.xml
+fastlane/test_output/
+
+# Archives
+*.xcarchive
